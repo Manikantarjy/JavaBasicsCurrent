@@ -1,0 +1,5 @@
+This project is the practise code for Java Basics
+Code will be in src/test/java/com/test/JavaBasics
+"As of now learning - 
+Reading from Keyboard - Scanner class, String Concatenation, String Methods, StringCreation"
+--------------------------------------------------------------------------------------------
